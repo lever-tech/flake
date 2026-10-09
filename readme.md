@@ -1,6 +1,6 @@
-![lever flake keyboard](./docs/img/banner.png)
+![Lever Flake keyboard](./docs/img/banner.png)
 
-**lever flake**
+**Lever Flake**
 
 _An open, programmable, wireless, ergonomic keyboard_
 

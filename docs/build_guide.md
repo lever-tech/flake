@@ -37,7 +37,7 @@ The required components vary based on the size of the keyboard you are building.
 | Component                                      | Small (40) | Medium (46) | Large (58) | Notes                                       |
 | :----------------------------------------------| :--------: | :---------: | :--------: | :------------------------------------------ |
 | **Soldering Components**                       |            |             |            |                                             |
-| lever flake v2 PCB                             |     2      |      2      |     2      | One for each half                           |
+| Lever Flake v2 PCB                             |     2      |      2      |     2      | One for each half                           |
 | Seeed Xiao nRF52840                            |     2      |      2      |     2      | The microcontroller                         |
 | JST 1.25 SMD 2pin Horizontal Connector         |     2      |      2      |     2      | For the battery                             |
 | MX Hot-swap Sockets                            |     40     |     46      |     58     | See note below                              |

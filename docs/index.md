@@ -1,10 +1,10 @@
 ---
-title: lever flake
+title: Lever Flake
 ---
 
 ![Flake Keyboard](./img/banner.png)
 
-## lever flake
+## Lever Flake
 
 *An open-source, wireless, split ergonomic keyboard designed to be productive, healthy, and enjoyable.*
 
