@@ -37,7 +37,7 @@ The required components vary based on the size of the keyboard you are building.
 | Component                                      | Small (40) | Medium (46) | Large (58) | Notes                                       |
 | :----------------------------------------------| :--------: | :---------: | :--------: | :------------------------------------------ |
 | **Soldering Components**                       |            |             |            |                                             |
-| Anywhy Flake v2 PCB                            |     2      |      2      |     2      | One for each half                           |
+| lever flake v2 PCB                             |     2      |      2      |     2      | One for each half                           |
 | Seeed Xiao nRF52840                            |     2      |      2      |     2      | The microcontroller                         |
 | JST 1.25 SMD 2pin Horizontal Connector         |     2      |      2      |     2      | For the battery                             |
 | MX Hot-swap Sockets                            |     40     |     46      |     58     | See note below                              |
@@ -134,7 +134,7 @@ For each switch position:
 
 #### Optional: Check the operational functionality
 
-1. Flash the **left** firmware as per [Flashing Guide](https://github.com/anywhy-io/flake-firmware/blob/main/docs/flashing_guide.md) on **both** keyboard Controllers
+1. Flash the **left** firmware as per [Flashing Guide](https://github.com/lever-tech/flake-firmware/blob/main/docs/flashing_guide.md) on **both** keyboard Controllers
 2. Connect one keyboard half via USB-C to your host
 3. Use Via either in [browser](https://www.usevia.app/) or install the [app](https://github.com/cebby2420/via-desktop)
 4. Start Via, select your keyboard, go to the keyboard tester and use some solder wire or tweezers to bridge each socket's pad. You should hear a sound and see that the respective key was pressed in the keyboard tester UI. If both halves work, you can continue with the next steps and should not run into any bigger issues, as you just tested that all Diodes work as well as all connection to the Controller
@@ -206,7 +206,7 @@ With both PCBs soldered, it's time to put everything into the enclosure.
 Congratulations on building your Flake keyboard! Your keyboard is now physically complete.
 
 The final step is to flash the firmware to make it fully functional. Please proceed to the next guide:
-➡️ **[Flashing Guide](https://github.com/anywhy-io/flake-firmware/blob/main/docs/flashing_guide.md)**
+➡️ **[Flashing Guide](https://github.com/lever-tech/flake-firmware/blob/main/docs/flashing_guide.md)**
 
 ## Troubleshooting
 

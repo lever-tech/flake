@@ -1,10 +1,10 @@
 ---
-title: Flake
+title: lever flake
 ---
 
 ![Flake Keyboard](./img/banner.png)
 
-## Anywhy Flake
+## lever flake
 
 *An open-source, wireless, split ergonomic keyboard designed to be productive, healthy, and enjoyable.*
 
@@ -73,7 +73,7 @@ Also, be sure to check out the gallery to see amazing builds from the community!
 ➡️ **[Explore the Gallery ✨](./gallery.md)**
 
 Firmware installation and keymap customization are covered in the firmware documentation.
-➡️ **[Flashing Guide](https://github.com/anywhy-io/flake-firmware/blob/main/docs/flashing_guide.md)**
+➡️ **[Flashing Guide](https://github.com/lever-tech/flake-firmware/blob/main/docs/flashing_guide.md)**
 
 ## Credits
 

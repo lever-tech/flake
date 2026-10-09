@@ -1,6 +1,6 @@
-![Anywhy Flake keyboard](./docs/img/banner.png)
+![lever flake keyboard](./docs/img/banner.png)
 
-**Anywhy Flake**
+**lever flake**
 
 _An open, programmable, wireless, ergonomic keyboard_
 
@@ -19,7 +19,7 @@ _An open, programmable, wireless, ergonomic keyboard_
 - [Gallery](./docs/gallery.md)
 - [Manufacturing Files](./docs/manufacturing_files.md)
 - [Build Guide](./docs/build_guide.md)
-- [Flashing Guide](https://github.com/anywhy-io/flake-firmware/blob/main/docs/flashing_guide.md)
+- [Flashing Guide](https://github.com/lever-tech/flake-firmware/blob/main/docs/flashing_guide.md)
 
 ## License
 
